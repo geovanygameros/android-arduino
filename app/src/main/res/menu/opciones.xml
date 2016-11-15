@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/todasAreasOn"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="100"
+        android:title="Todas las áreas"/>
+    <item
+        android:id="@+id/todasAreasOff"
+        android:icon="@mipmap/ic_launcher"
+        android:orderInCategory="200"
+        android:title="Mute">
+    </item>
+</menu>
